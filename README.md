@@ -11,7 +11,7 @@ This repo shows 2 sample Jupyter Notebooks and Python code.
 
 ###### GitLab integration to Coder remote development platform
 
-<a href="https://demo.cdr.dev/environments/git?org=5e274cb6-8ad3877561fcf4c2c4a95f3e&image=5eb46ddf-26aa45df742b494c1f0986f9&tag=latest&service=gitlab&repo=git@gitlab.com:mtm20176/rubyonrails.git" target="_blank" rel="noopener noreferrer">
+<a href="https://demo.cdr.dev/environments/git?org=5e274cb6-8ad3877561fcf4c2c4a95f3e&image=5f11850b-98fd92c285c11b576c2dfc5b&tag=latest&service=gitlab&repo=git@gitlab.com:mtm20176/pandas_automl.git" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.coder.com/embed-button.svg" alt="Open in Coder Enterprise" width="263" height="40" />
 </a>
 
