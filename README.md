@@ -1,19 +1,15 @@
-# Jupyter Notebook data science example
+# Jupyter Notebook machine learning and data science example
 
 This repo shows 2 sample Jupyter Notebooks and Python code.  
 
 * generic.ipydb are generic Pandas commands to analyze datasets. e.g., number of rows, columns, column names, distribution of values in a column, read in a csv.
 
-* autogluon_tabular.ipynb uses an OSS autoML framework autoGluon from Amazon, to generate supervised machine learning models.
+* autogluon_tabular.ipynb uses an OSS autoML framework autoGluon from Amazon, to generate supervised machine learning models.  
+
+* You need to pip3 install the packages for these to work ( or do this within an image )
 
 * The sets folder has publicly available datasets used by the notebooks.
 
-
-###### GitLab integration to Coder remote development platform
-
-<a href="https://demo.cdr.dev/environments/git?org=5e274cb6-8ad3877561fcf4c2c4a95f3e&image=5f11850b-98fd92c285c11b576c2dfc5b&tag=latest&service=gitlab&repo=git@gitlab.com:mtm20176/pandas_automl.git" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.coder.com/embed-button.svg" alt="Open in Coder Enterprise" width="263" height="40" />
-</a>
 
 ###### Notes / To run this app after cloning, we recommend:
 
