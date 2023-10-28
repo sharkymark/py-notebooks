@@ -2,11 +2,11 @@
 
 This repo shows 2 sample Jupyter Notebooks and Python code.  
 
-###### clean.demo.coder.com
-[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://clean.demo.coder.com/wac/build?project_oauth_service=github&template_oauth_service=github&project_url=git@github.com:mtm20176/pandas_automl.git&template_url=git@github.com:mtm20176/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
+###### coder-oss.demo.coder.com
+[![Open in Coder](https://coder-oss.demo.coder.com/open-in-coder.svg)](https://coder-oss.demo.coder.com/templates/pod-with-jupyter/workspace?mode=auto&param.Jupyter+IDE+type=lab&param.Dotfiles+URL+%28optional%29=)
 
-###### demo-2.cdr.dev
-[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://demo-2.cdr.dev/wac/build?project_oauth_service=github&template_oauth_service=github&project_url=git@github.com:mtm20176/pandas_automl.git&template_url=git@github.com:mtm20176/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
+###### eks-v2.demo.coder.com
+[![Open in Coder](https://eks-v2.demo.coder.com/open-in-coder.svg)](https://eks-v2.demo.coder.com/templates/pod-with-jupyter/workspace?mode=auto&param.Jupyter+IDE+type=lab&param.Dotfiles+URL+%28optional%29=)
 
 * generic.ipydb are generic Pandas commands to analyze datasets. e.g., number of rows, columns, column names, distribution of values in a column, read in a csv.
 
