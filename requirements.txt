@@ -1,0 +1,5 @@
+jupyterlab
+jupyter-core
+notebook
+pandas
+prettytable
