@@ -32,12 +32,37 @@ This approach frees you up from having a specific Python version and module on y
 
 ## Packages
 
-If not using a dev container, you will to `pip install` the following packages:
+If not using a dev container, you will to `pip install -r requirements.txt` to install the required packages:
+
+# Game of Life
+
+This project implements Conway's Game of Life using Python. The Game of Life is a cellular automaton devised by the mathematician John Horton Conway in 1970. It consists of a grid of cells that can live, die, or multiply based on a few mathematical rules.
+
+## Rules
+
+1. Any live cell with fewer than two live neighbors dies, as if by underpopulation.
+2. Any live cell with two or three live neighbors lives on to the next generation.
+3. Any live cell with more than three live neighbors dies, as if by overpopulation.
+4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
+## Files
+
+### `game_of_life.py`
+
+This script runs the Game of Life simulation. It includes the following functions:
+
+- `random_grid(size)`: Generates a random grid of 0s and 1s.
+- `update(grid)`: Computes the next generation of the grid based on the Game of Life rules.
+- `print_grid(grid)`: Prints the grid to the terminal.
+
+The script initializes a random grid and continuously updates and prints it until interrupted by the user.
+
+## Running the Simulation
+
+To run the simulation, execute the following command in your terminal:
 
 ```sh
-jupyterlab
-jupyter-core
-notebook
-pandas
-prettytable
+python game_of_life.py
 ```
+
+Press `Ctrl+C` to stop the simulation.

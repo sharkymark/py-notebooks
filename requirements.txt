@@ -3,3 +3,4 @@ jupyter-core
 notebook
 pandas
 prettytable
+numpy
