@@ -66,3 +66,33 @@ python game_of_life.py
 ```
 
 Press `Ctrl+C` to stop the simulation.
+
+# Factorial CLI App
+
+This CLI app demonstrates recursion by calculating the factorial of a given number.
+
+### Purpose
+
+The purpose of this program is to provide a simple example of how recursion can be used to solve problems in Python. It takes an integer as input and calculates its factorial using a recursive function.
+
+### Usage
+
+To use the CLI app, run the following command:
+
+```sh
+python factorial.py <number>
+```
+
+Replace `<number>` with the integer you want to calculate the factorial for.
+
+### Example
+
+```sh
+python factorial.py 5
+```
+
+This will output:
+
+```
+The factorial of 5 is 120
+```
