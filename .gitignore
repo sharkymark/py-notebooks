@@ -2,3 +2,6 @@
 *.txt
 .DS_Store
 src/query/sets/
+
+# EXCEPT for the .gitkeep file
+!src/query/sets/.gitkeep
