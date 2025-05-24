@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 *.txt
 .DS_Store
-src/query/sets/
+src/query/sets/*
 
 # EXCEPT for the .gitkeep file
 !src/query/sets/.gitkeep
